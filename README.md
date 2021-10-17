@@ -25,8 +25,6 @@ There are four ways to perform detection on videos:
 3. YouTube video
 4. Video from Mobile Camera ( [DroidCam](https://www.dev47apps.com/) )
 
-See the code of the program and uncomment the line from which you want to take the  video to perform detection.
-
 You can take the video from Sample dataset to perform detection.
 #### [Note: If you want to perform the detection on a locally stored video then make sure that the video is stored inside the [YOLO\darknet\build\darknet\x64]() folder along with the python script]
 
