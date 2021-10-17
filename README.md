@@ -59,8 +59,6 @@ python Fall_Detection.py
 ```
 ### Sample Output:
 ![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/fall.PNG?raw=true)
-### Email Alert:
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/alert_fall.PNG?raw=true)
 
 ## Social Distancing Detection
 ### Working
@@ -95,8 +93,6 @@ python Vehicle_Crash.py
 ```
 ### Sample Output:
 ![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/crash.PNG?raw=true)
-### Email Alert:
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/alert_car.PNG?raw=true)
 
 ## Project Deployment
 We have deployed our project using flask. When we run the below script, our website is hosted onto a local server and we can use that website to perform detections on videos.
@@ -125,8 +121,7 @@ python app.py
 ![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/social_distancing_detected.PNG?raw=true)
 ### Vehicle Crash Detected Page
 ![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/vehicle_crash_detected.PNG?raw=true)
-### Contact Us Page
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/contact_us.PNG?raw=true)
+
 
 ## Directory and File Structure
 After installing darknet keep the github files according to this file structure
