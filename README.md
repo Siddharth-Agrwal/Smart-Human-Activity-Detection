@@ -1,6 +1,5 @@
 # Advanced Surveillance System
 
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/shady.PNG?raw=true)
 
 This is a project to perform fall detection, vehicle crash detection and social distancing detection from CCTV cameras in real-time.
 
