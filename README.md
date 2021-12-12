@@ -1,6 +1,5 @@
 # Advanced Surveillance System
 
-
 This is a project to perform fall detection, vehicle crash detection and social distancing detection from CCTV cameras in real-time.
 
 ## How YOLO works ?
@@ -85,28 +84,6 @@ We have deployed our project using flask. When we run the below script, our webs
 ```python
 python app.py
 ```
-
-## SHADY Website
-
-### Home Page
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/home.PNG?raw=true)
-### Object Detection Page
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/object_detection.PNG?raw=true)
-### Fall Detection Page
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/fall_detection.PNG?raw=true)
-### Social Distancing Detection Page
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/social_distancing_detection.PNG?raw=true)
-### Vehicle Crash Detection Page
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/vehicle_crash_detection.PNG?raw=true)
-### Object Detected Page
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/object_detected.PNG?raw=true)
-### Fall Detected Page
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/fall_detected.PNG?raw=true)
-### Social Distancing Detected Page
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/social_distancing_detected.PNG?raw=true)
-### Vehicle Crash Detected Page
-![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/vehicle_crash_detected.PNG?raw=true)
-
 
 ## Directory and File Structure
 After installing darknet keep the github files according to this file structure
